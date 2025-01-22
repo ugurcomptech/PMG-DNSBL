@@ -50,10 +50,6 @@ Tekrardan aynı sayfa üzerinde
 
 `No Matches` seçeneğini seçiyoruz. Bu seçeneği seçerek Whitelist üzerinde bulunan kurallar için herhangi bir işlem sağlanmayacaktır.
 
-![image](https://github.com/user-attachments/assets/f6b1dce0-343a-4fcc-92b9-7f20de1819f7)
-
-Seçeneğini seçip bitiriyoruz.
-
 ## Kaynakça
 
 - [PMG Forum](https://forum.proxmox.com/threads/whitelist-not-working.54204/)
