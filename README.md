@@ -32,22 +32,27 @@ bl.spamcop.net,b.barracudacentral.org,zen.spamhaus.org
 
 Seneryo da karşı taraf sizlere bir mail gönderiyor ve gönderinin sunucu IP adresi eklemiş olduğunuz RBL sitelerinde yer alıyor. Sadece belirli bir IP adresine veya domain için Whitelist oluşturabilirsiniz.
 
-![image](https://github.com/user-attachments/assets/2c0aa581-be49-4c8c-864f-ff8cc47032a2)
 
-Mail Proxy >> Whitelist sayfası üzerinden Add butonuna tıklıyoruz.
+Mail Filter >> Who Objects >> sayfasına erişiyoruz.
 
-![image](https://github.com/user-attachments/assets/a9221791-f882-4827-86d7-6cfbc4bde879)
+![image](https://github.com/user-attachments/assets/0efc77ec-98ed-43a9-9848-a936a63a2a8e)
+
+
+Whitelist sayfası üzerinden Add butonuna tıklıyoruz.
+
 
 `Domain (Sender)` veya `IP Adress (Sender)` seçeneği ile engellenen domaini veya IP adresini ekleyebilirsiniz. Sadece bu ayar yetmemektedir. 
 
 
-Mail Filter >> Who Objects >> Whitelist sayfasına erişiyoruz.
-
-![image](https://github.com/user-attachments/assets/9d15941d-0a6e-49a8-a75d-f7c3dd6c216f)
+Tekrardan aynı sayfa üzerinde 
 
 ![image](https://github.com/user-attachments/assets/12b3725a-ec24-4062-bd25-3ebbd45f197a)
 
 `No Matches` seçeneğini seçiyoruz. Bu seçeneği seçerek Whitelist üzerinde bulunan kurallar için herhangi bir işlem sağlanmayacaktır.
+
+![image](https://github.com/user-attachments/assets/f6b1dce0-343a-4fcc-92b9-7f20de1819f7)
+
+Seçeneğini seçip bitiriyoruz.
 
 ## Kaynakça
 
