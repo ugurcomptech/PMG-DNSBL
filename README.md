@@ -46,9 +46,9 @@ Whitelist sayfası üzerinden Add butonuna tıklıyoruz.
 
 Tekrardan aynı sayfa üzerinde 
 
-![image](https://github.com/user-attachments/assets/12b3725a-ec24-4062-bd25-3ebbd45f197a)
+![image](https://github.com/user-attachments/assets/4fd8649b-1bdf-4ed7-b72e-ac24fca5375f)
 
-`No Matches` seçeneğini seçiyoruz. Bu seçeneği seçerek Whitelist üzerinde bulunan kurallar için herhangi bir işlem sağlanmayacaktır.
+`Any  Matches` seçeneğini seçiyoruz. Bu seçeneği seçerek Whitelist üzerinde bulunan kurallar için herhangi bir işlem sağlanmayacaktır.
 
 ## Kaynakça
 
