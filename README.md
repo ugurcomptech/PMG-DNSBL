@@ -50,6 +50,10 @@ Tekrardan aynı sayfa üzerinde
 
 `Any  Matches` seçeneğini seçiyoruz. Bu seçeneği seçerek Whitelist üzerinde bulunan kurallar için herhangi bir işlem sağlanmayacaktır.
 
+
+**Not:** Whitelist işlemleri bazen sağlıklı çalışmayabiliyor.
+
+
 ## Kaynakça
 
 - [PMG Forum](https://forum.proxmox.com/threads/whitelist-not-working.54204/)
